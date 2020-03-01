@@ -1,6 +1,3 @@
-## Welcome
-Nananannanana
-
 ### Universidad Tecnologica Nacional - FRLP
 University Professor of Agile Methodology
 Jul 2017 - Now

@@ -22,7 +22,7 @@ Key Responsibilities:
 
 * Technology stack: Angular5, Spring MVC, JPA, JWT, MySql, REST Services, Maven, Elasticsearch
 
- ### Despegar.com
+### Despegar.com
 Scala Software Developer
 Dic 2017 - Oct 2019
  
@@ -31,7 +31,7 @@ Dic 2017 - Oct 2019
  • Collaboratively work with other developers in solving complex problems. 
  • Development and testing of applications to support the Business
  
- ### ISBAN
+### ISBAN
  Java Team Lead 
   
  Key Responsibilities:
@@ -41,7 +41,7 @@ Dic 2017 - Oct 2019
  • Lead a team of 3-5 professionals and coaching junior software developers.
  • Use Scrum Methodology
 
- ### GLOBANT
+### GLOBANT
 Java Dev
 Nov 2014 - Feb 2016
 
@@ -52,7 +52,7 @@ Key Responsibilities:
  • Lead a team of 3-5 professionals and coaching junior software developers.
  • Use Scrum Methodology
  
- ### FLUXIT
+### FLUXIT
  Java Dev
  Mar 2013 - Nov 2014
  
@@ -60,7 +60,7 @@ Key Responsibilities:
  • Analysis and documentation of business requirements.
  • Support and testing of applications.
  
- ### Softtek
+### Softtek
  Java Dev
  Jun 2008 - 2012
  

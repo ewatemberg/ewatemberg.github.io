@@ -1,6 +1,5 @@
 ### Universidad Tecnologica Nacional - FRLP
-University Professor of Agile Methodology
-Jul 2017 - Now
+University Professor of Agile Methodology :: Jul 2017 - Now
 
 Content:
 * Conceptualization and practices on the values and principles of Agile Methodologies.
@@ -12,19 +11,15 @@ Content:
 * Agile planning and estimation
 
 ### GIDAS - Grupo I&D - UTN FRLP
-TL
-Feb 2019 - Mar 2020
+TL :: Feb 2019 - Mar 2020
 
 Key Responsibilities:
 • Analysis of business requirements.
 • Collaboratively work with other developers in solving complex problems.
 • Development and testing of applications to support the Business
 
-* Technology stack: Angular5, Spring MVC, JPA, JWT, MySql, REST Services, Maven, Elasticsearch
-
 ### Despegar.com
-Scala Software Developer
-Dic 2017 - Oct 2019
+Scala Software Developer :: Dic 2017 - Oct 2019
  
  Key Responsibilities:
  • Analysis of business requirements.
@@ -32,7 +27,7 @@ Dic 2017 - Oct 2019
  • Development and testing of applications to support the Business
  
 ### ISBAN
- Java Team Lead 
+Java Team Lead :: Ago 2016 - Dic 2017
   
  Key Responsibilities:
  • Analysis and documentation of business requirements.
@@ -42,8 +37,7 @@ Dic 2017 - Oct 2019
  • Use Scrum Methodology
 
 ### GLOBANT
-Java Dev
-Nov 2014 - Feb 2016
+Java Dev :: Nov 2014 - Feb 2016
 
 Key Responsibilities:
  • Analysis and documentation of business requirements.
@@ -53,16 +47,14 @@ Key Responsibilities:
  • Use Scrum Methodology
  
 ### FLUXIT
- Java Dev
- Mar 2013 - Nov 2014
+ Java Dev :: Mar 2013 - Nov 2014
  
  Key Responsibilities:
  • Analysis and documentation of business requirements.
  • Support and testing of applications.
  
 ### Softtek
- Java Dev
- Jun 2008 - 2012
+Java Dev :: Jun 2008 - 2012
  
   Key Responsibilities:
   • Analysis and documentation of business requirements.
